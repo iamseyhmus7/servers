@@ -60,7 +60,7 @@ The server lists in this README are no longer maintained and will eventually be 
 ### 🎖️ Official Integrations
 
 Official integrations are maintained by companies building production ready MCP servers for their platforms.
-
+-[mcp-tcmb-exchange](https://github.com/iamseyhmus7/mcp-tcmb-exchange) - TCMB daily exchange rates and fast currency conversions (TRY/USD/EUR/GBP).
 - <img height="12" width="12" src="https://www.21st.dev/favicon.ico" alt="21st.dev Logo" /> **[21st.dev Magic](https://github.com/21st-dev/magic-mcp)** - Create crafted UI components inspired by the best 21st.dev design engineers.
 - <img height="12" width="12" src="https://www.2slides.com/images/2slides-red.svg" alt="2slides Logo" /> **[2slides](https://github.com/2slides/2slides-mcp)** - An MCP server that provides tools to convert content into slides/PPT/presentation or generate slides/PPT/presentation with user intention.
 - <img height="12" width="12" src="https://framerusercontent.com/images/LpSK1tSZweomrAHOMAj9Gea96lA.svg" alt="Paragon Logo" /> **[ActionKit by Paragon](https://github.com/useparagon/paragon-mcp)** - Connect to 130+ SaaS integrations (e.g. Slack, Salesforce, Gmail) with Paragon’s [ActionKit](https://www.useparagon.com/actionkit) API.
