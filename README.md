@@ -60,10 +60,8 @@ The server lists in this README are no longer maintained and will eventually be 
 ### 🎖️ Official Integrations
 
 Official integrations are maintained by companies building production ready MCP servers for their platforms.
-**[mcp-web-scraper](https://github.com/iamseyhmus7/mcp-web-scraper)** - 
-  Playwright-based autonomous web scraper with JS rendering, form filling, 
-  screenshots, queue processing and page change monitoring. 
-  ([PyPI](https://pypi.org/project/mcp-web-scraper/)) — by [@iamseyhmus7](https://github.com/iamseyhmus7)
+
+- <img src="https://raw.githubusercontent.com/iamseyhmus7/mcp-web-scraper/main/logo.png" width="20" height="20" valign="middle"> **[mcp-web-scraper](https://github.com/iamseyhmus7/mcp-web-scraper)** - Playwright-based autonomous web scraper with JS rendering, form filling, screenshots, queue processing and page change monitoring. ([PyPI](https://pypi.org/project/mcp-web-scraper/)) — by [@iamseyhmus7](https://github.com/iamseyhmus7)
 - <img height="12" width="12" src="https://www.21st.dev/favicon.ico" alt="21st.dev Logo" /> **[21st.dev Magic](https://github.com/21st-dev/magic-mcp)** - Create crafted UI components inspired by the best 21st.dev design engineers.
 - [mcp-tcmb-exchange](https://github.com/iamseyhmus7/mcp-tcmb-exchange) - TCMB daily exchange rates and fast currency conversions (TRY/USD/EUR/GBP).
 - <img height="12" width="12" src="https://www.2slides.com/images/2slides-red.svg" alt="2slides Logo" /> **[2slides](https://github.com/2slides/2slides-mcp)** - An MCP server that provides tools to convert content into slides/PPT/presentation or generate slides/PPT/presentation with user intention.
